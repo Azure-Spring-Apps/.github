@@ -1,1 +1,1 @@
-## Azure Spring Apps Communit - Welcome 👋
+## Azure Spring Apps Community - Welcome 👋
